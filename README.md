@@ -7,7 +7,7 @@
 - [Portfolio Projects](##Portfolio-Projects)
 - [UVA Projects](##UVA-Projects)
 - [Certificates](##Certificates)
-- [Contacts](##Contacts)
+- [Contact Information](##Contacts)
 
 ## Portfolio Projects
 
