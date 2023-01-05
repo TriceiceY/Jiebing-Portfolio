@@ -17,6 +17,8 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Study Projects
 
 ## Certificates
+Performing and sharing your work is the best way to demonstrate skill, but sometimes certificates appear as indirect results.
+- [Python for Data Science and Machine Learning Bootcamp](https://drive.google.com/file/d/1As5izDhrUTdnOGXU1Yz6y8XnARu8DkwH/view?usp=share_link) (Aug 2022)(Udemy)
 
 ## Contacts
 - LinkedIn: https://www.linkedin.com/in/jiebingyin/
