@@ -3,11 +3,11 @@
 ## About me
 
 ## Table of contents
-- [About](##About-me)
-- [Portfolio Projects](##Portfolio-Projects)
-- [UVA Projects](##UVA-Projects)
-- [Certificates](##Certificates)
-- [Contact Information](##Contacts)
+- [About](#About-me)
+- [Portfolio Projects](#Portfolio-Projects)
+- [UVA Projects](#UVA-Projects)
+- [Certificates](#Certificates)
+- [Contact Information](#Contacts)
 
 ## Portfolio Projects
 
