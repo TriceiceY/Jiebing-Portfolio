@@ -3,6 +3,7 @@
 ## About me
 
 ## Table of contents
+- [About](##About-me)
 - [Portfolio Projects](##Portfolio-Projects)
 
 
