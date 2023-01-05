@@ -5,9 +5,13 @@
 ## Table of contents
 - [About](##About-me)
 - [Portfolio Projects](##Portfolio-Projects)
-
+- [UVA Projects](##UVA-Projects)
+- [Certificates](##Certificates)
+- [Contacts](##Contacts)
 
 ## Portfolio Projects
+
+## Study Projects
 
 ## Certificates
 
