@@ -3,6 +3,8 @@
 ## About me
 Hi, I am Jiebing! I graduated from University of Virginia and held a Master of Science (M.S.) degree in Statistics with the concentration in Data-Analytic Methods in Dec 2022. I am activetly looking for a full time Data Analyst position. I have shown my knowledge of statistics and data analytic skills in projects which involve topics such as data mining, machine learning, multivariate analysis, causal inference, and statistical consulting. 
 
+In the world today, data is probably the thing that matters most. We use data to anticipate the future, underpin operations and drive decision-making across the entire healthcare, energy, telecommunications, retail, and other industries. What data analysis interests me the most is that we do not always need advance and fancy ML techniques to explore data, sometime classical but more interpretable analytic methods such as logistic regression and ANOVA can tell us the story. 
+
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics.
 
 ## Table of contents
