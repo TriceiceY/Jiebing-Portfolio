@@ -12,7 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#About-me)
 - [Portfolio Projects](#Portfolio-Projects)
   + [Global COVID Vaccination Tracker](#Global-COVID-Vaccination-Tracker)
-  + [BCG Data Science & Analytics Virtual Experience Program](#BCG-Data-Science-&-Analytics-Virtual-Experience-Program-on-Forage)
+  + [BCG Data Science & Analytics Virtual Experience Program](#BCG-Data-Science&Analytics-Virtual-Experience-Program-on-Forage)
 - [UVA Projects](#UVA-Projects)
 - [Certificates](#Certificates)
 - [Contact Information](#Contacts)
