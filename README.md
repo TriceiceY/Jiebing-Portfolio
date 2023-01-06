@@ -22,11 +22,16 @@ In this section I will list data analytics projects briefly describing the techn
 ### Global COVID Vaccination Tracker
 **Presentation:** [Global Covid Vaccine Tracker](https://prod-useast-a.online.tableau.com/t/jiebingtracyyin/views/GlobalCOVID-19VaccineTracker/GlobalVaccineTracker)\
 **Description:** The dataset contains global population who have partially or fully vaccinated from 2020-09 to 2021-10. The scope of this project is to build a Covid Vaccine Tracker to track how the vaccination program is performing worldwide. \
-**Skills:** Data manipulation with Tableau, Defining metrics, Data visualization with Tableau, Creating Dashboard\
+**Skills:** data manipulation with Tableau, defining metrics, data visualization with Tableau, creating dashboard\
 **Technology:** Tableau\
 **Results:** Built a interactive vaccine tracker dashboard; Discovered the positive relationship between GDP per capita and the share of vaccination population. 
 
 ### BCG Data Science and Analytics Virtual Experience Program on Forage
+**Presentation:** \
+**Description:** \
+**Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, machine learning (random forest), creating customer churning strategies \
+**Technology:** Python (Pandas, Numpy, Seaborn, Matplotlib) \
+**Results:**
 
 ## Study Projects
 
