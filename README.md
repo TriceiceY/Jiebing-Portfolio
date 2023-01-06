@@ -28,7 +28,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### BCG Data Science and Analytics Virtual Experience Program on Forage
 **Presentation:** \
-**Description:** \
+**Description:** Use data to perform diagnostic, descriptive, and predictive analysis.\
 **Skills:** data cleaning, detecting data anomalies, python coding, data visualization, descriptive statistics, dealing with outliers, machine learning (random forest), creating customer churning strategies \
 **Technology:** Python (Pandas, Numpy, Seaborn, Matplotlib) \
 **Results:**
