@@ -11,11 +11,21 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Table of contents
 - [About](#About-me)
 - [Portfolio Projects](#Portfolio-Projects)
+  + [Global COVID Vaccination Tracker](#Global-COVID-Vaccination-Tracker)
 - [UVA Projects](#UVA-Projects)
 - [Certificates](#Certificates)
 - [Contact Information](#Contacts)
 
 ## Portfolio Projects
+In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
+### Global COVID Vaccination Tracker
+**Presentation:** \
+**Description:** \
+**Skills:** \
+**Technology:** \
+**Results:** 
+
+### BCG Virtual 
 
 ## Study Projects
 
