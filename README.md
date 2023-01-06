@@ -12,6 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#About-me)
 - [Portfolio Projects](#Portfolio-Projects)
   + [Global COVID Vaccination Tracker](#Global-COVID-Vaccination-Tracker)
+  + [BCG Virtual Project](#BCG-Virtual-Project)
 - [UVA Projects](#UVA-Projects)
 - [Certificates](#Certificates)
 - [Contact Information](#Contacts)
@@ -25,7 +26,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Technology:** \
 **Results:** 
 
-### BCG Virtual 
+### BCG Virtual Project
 
 ## Study Projects
 
